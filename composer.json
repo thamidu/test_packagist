@@ -1,0 +1,7 @@
+{
+    "name": "sysdek/test_packagist",
+    "description": "Testing Packagist",
+    "require": {
+        "php": "^7.2"
+    }
+}
